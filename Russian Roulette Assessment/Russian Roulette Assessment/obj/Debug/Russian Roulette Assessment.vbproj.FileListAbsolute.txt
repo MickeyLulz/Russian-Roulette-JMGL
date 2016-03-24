@@ -1,0 +1,42 @@
+H:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe.config
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbprojResolveAssemblyReference.cache
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Form1.resources
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.High_Scores.resources
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Resources.resources
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Russian_Roulette_Game.resources
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbproj.GenerateResource.Cache
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.xml
+H:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe
+H:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.pdb
+H:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.xml
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.exe
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.pdb
+H:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Game_Over.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe.config
+G:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe
+G:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.pdb
+G:\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.xml
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbprojResolveAssemblyReference.cache
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Form1.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Game_Over.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.High_Scores.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Resources.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Russian_Roulette_Game.resources
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbproj.GenerateResource.Cache
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.exe
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.xml
+G:\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.pdb
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe.config
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.exe
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.xml
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.pdb
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.exe
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.pdb
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\bin\Debug\Russian Roulette Assessment.xml
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbprojResolveAssemblyReference.cache
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Form1.resources
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Game_Over.resources
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.High_Scores.resources
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Resources.resources
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian_Roulette_Assessment.Russian_Roulette_Game.resources
+E:\Documents\Mickey\ishkewl\Russian Roulette Assessment\Russian Roulette Assessment\obj\Debug\Russian Roulette Assessment.vbproj.GenerateResource.Cache
